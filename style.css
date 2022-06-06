@@ -671,6 +671,7 @@ p {
 }
 /* Fin Media Query */
 
+
 /* Media Query para navbar tipo hamburguesa falta implementar JS*/
 @media only screen and (min-width: 1200px) {
 	/* header */
